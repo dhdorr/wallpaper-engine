@@ -9,7 +9,7 @@ var imgDownload = '';
 const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
 const folder_path = __dirname + "\wallpapers"; //"C:/Users/maria/Desktop/wallpapers"; //__dirname + "\wallpapers";
 console.log(folder_path);
-const key = 'smzhjuVOjBzv1D2N8Pie1qoUNRJEqNJmBWBE11AvPyA';
+const key = 'UNSPLASH_API_KEY';
 const queries = [
                     'dog', 'cat', 'nature', 'landscape', 'wildlife',
                     'beach', 'skyline', 'forest', 'bird', 'night sky', 
